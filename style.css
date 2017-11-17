@@ -11,7 +11,7 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size:cover;
-    opacity: .5;
+    opacity: .25;
 }
 .block2 {
     height: 50vh;
@@ -20,7 +20,7 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     background-color: black;
-    opacity: .5;
+    opacity: .25;
 }
 .block3 {
     height: 50vh;
@@ -30,7 +30,7 @@ body {
     background-size:cover;
     background-color: black;
     justify-content: center;
-    opacity: .5;
+    opacity: .25;
 }
 .block4 {
     height: 50vh;
@@ -38,7 +38,7 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size:cover;
-    opacity: .5;
+    opacity: .25;
 }
 @media screen and (max-width:500px) {
     .block {
